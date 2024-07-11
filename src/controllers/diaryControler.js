@@ -1,4 +1,4 @@
-import diaryModel from "../models/disry.js";
+import diaryModel from "../models/diary.js";
 
 const createDiary = async(req,res)=>{
     try {
